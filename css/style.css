@@ -8,15 +8,13 @@
 .firstpg{
 	background-image: url("../images/firstpagebg.jpeg");
 	background-size: 100% 100%;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
+	
 }
 
 .secondpg{
 	background-image: url("../images/mewithgtr.jpeg");
 	background-size: 100% 100%;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
+	
 }
 
 .thirdpg{
@@ -29,8 +27,7 @@
 .fourthpg{
 	background-image: url("../images/firstpagebg.jpeg");
 	background-size: 100% 100%;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
+	
 }
 
 
