@@ -45,6 +45,24 @@
 }
 
 
+.footer{
+	background-color: rgb(58,68,78);
+	position: absolute;
+	height: auto;
+
+}
+
+.footer p{
+	font-size: smaller;
+	margin-bottom: 0;
+}
+
+.footer i{
+	font-size: smaller;
+	margin: 0.1%;
+}
+
+
 
 .content{
 	position: absolute;
