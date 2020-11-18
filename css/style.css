@@ -6,12 +6,12 @@
 	overflow: auto;
 }
 
-.firstpg, .secondpg, .thirdpg, .fourthpg{
+.firstpg{
 	background-image: url("../images/firstpagebg.jpeg");
 	background-size: 100% 100%;
 }
 
-/*
+
 
 .secondpg{
 	background-image: url("../images/mewithgtr.jpeg");
@@ -31,7 +31,7 @@
 	
 }
 
-*/
+
 
 
 .insidediv{
